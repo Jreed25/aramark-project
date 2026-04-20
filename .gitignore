@@ -1,7 +1,43 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files — DO NOT commit raw data
+data/
+*.csv
+*.avro
+*.parquet
+*.json
+!requirements.txt
+
+# Results (optional — remove the next two lines if you want to commit results)
+results/
+
+# Environment variables
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# MacOS
 .DS_Store
 
-venv/
+# Windows
+Thumbs.db
+desktop.ini
 
-__pycache__/
-
-*.pyc
+# Google Cloud credentials — NEVER commit these
+application_default_credentials.json
+*credentials*.json
+*service_account*.json
