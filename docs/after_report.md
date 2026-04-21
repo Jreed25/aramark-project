@@ -12,19 +12,19 @@ This approach reflects a common strategy in big data analytics, where datasets e
 
 The exploratory analysis revealed several important patterns in customer spending behavior across categories, geography, business types, and ecommerce adoption.
 
-**Category-Level Spending:**
+- **Category-Level Spending:**
 Food represents the largest portion of total spend, which is consistent with expectations in the supply chain and food service industry. However, when isolating non-food categories, additional opportunities for cost optimization and strategic focus become apparent.
 
-**Geographic Trends:**
+- **Geographic Trends:**
 Spending is highly concentrated in a limited number of states and cities. This indicates that high-density markets contribute a disproportionately large share of total revenue, suggesting that regional targeting strategies may be important for optimizing performance.
 
-**Business Entity Differences:**
+- **Business Entity Differences:**
 Different business entity types exhibit significantly different average spending behaviors. For example, hotels and restaurants demonstrate distinct spending patterns, highlighting the importance of segmentation when analyzing customer behavior.
 
-**Ecommerce Impact:**
+- **Ecommerce Impact:**
 Differences in spending behavior were observed between ecommerce and non-ecommerce customers. This suggests that ecommerce adoption may influence purchasing behavior, potentially due to increased efficiency, accessibility, or ordering frequency.
 
-**Spend Distribution:**
+- **Spend Distribution:**
 Spending is highly skewed, with a small number of categories accounting for a large proportion of total spend. This long-tail distribution indicates that while many categories exist, a limited subset drives the majority of overall revenue.
 
 ---
@@ -33,9 +33,9 @@ Spending is highly skewed, with a small number of categories accounting for a la
 
 The results of this analysis provide actionable insights for both executive-level stakeholders and operational managers.
 
-For leadership, the findings support strategic decision-making by identifying high-value categories and geographic regions that contribute disproportionately to total spend. This information can be used to guide resource allocation and long-term planning.
+1. **For leadership**, the findings support strategic decision-making by identifying high-value categories and geographic regions that contribute disproportionately to total spend. This information can be used to guide resource allocation and long-term planning.
 
-For on-site operators, the analysis provides a benchmark for comparing local spending behavior against broader trends. This enables managers to identify potential inefficiencies, overspending, or opportunities for optimization within their operations.
+2. **For on-site operators**, the analysis provides a benchmark for comparing local spending behavior against broader trends. This enables managers to identify potential inefficiencies, overspending, or opportunities for optimization within their operations.
 
 Overall, the analysis demonstrates how large-scale transactional data can be transformed into meaningful insights that support both strategic and operational decision-making.
 
