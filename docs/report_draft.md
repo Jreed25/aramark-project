@@ -24,7 +24,7 @@ Key features include:
 - **Geographic Data:** City, state, and ZIP code
 - **Business Entity Type:** Industry classification (e.g., hotel, restaurant, healthcare)
 - **Ecommerce Status:** Indicates whether the customer uses the ecommerce platform
-- **Spend Random Factor:** Total spend in USD (randomized)
+- **Spend Random Factor:** Total spend in USD 
 
 This dataset enables analysis of spending behavior across multiple dimensions.
 
