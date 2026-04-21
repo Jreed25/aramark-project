@@ -40,9 +40,4 @@ The analysis will be conducted in several stages:
 2. **Visualization:**
    - Use charts to highlight trends and comparisons
 
-3. **Advanced Analysis (Planned):**
-   - Customer segmentation using clustering techniques
-   - Predictive modeling to estimate future spending
-   - Association rule mining for identifying product relationships
-
 All analysis will be performed using Python and data analysis libraries such as pandas and matplotlib.
