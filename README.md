@@ -10,7 +10,7 @@ This project analyzes Aramark–Avendra's supply chain purchasing dataset to gen
 
 ## Team Members
 - Jeremy Reed
-- Christopher
+- Christopher Guaman
 - Evangelos Vezyris
 
 
